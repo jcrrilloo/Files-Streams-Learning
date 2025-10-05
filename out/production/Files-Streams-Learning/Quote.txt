@@ -1,0 +1,4 @@
+This is going to be a test file that will be read for my input and output java assignment.
+The idea will be to introduce and test the concepts of reading, writing and closing files.
+In addition, we will also be learning about absolute paths and relative paths.
+In order to see how all of this works, Java comes with classes and methods that allows us to easily understand where file information is coming from.

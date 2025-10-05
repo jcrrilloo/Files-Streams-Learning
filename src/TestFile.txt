@@ -1,0 +1,4 @@
+This is going to be a TestFile in which I try to read this text file from 
+a place that I created not inside my IDE.
+If it all works, then it means that I understood the assignment and know how to point
+certain files to the correct place
